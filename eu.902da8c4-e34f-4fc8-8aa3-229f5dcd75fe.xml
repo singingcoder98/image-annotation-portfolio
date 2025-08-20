@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>eu.902da8c4-e34f-4fc8-8aa3-229f5dcd75fe.jpg</filename>
+	<path>D:\labelIMG\images\eu.902da8c4-e34f-4fc8-8aa3-229f5dcd75fe.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3472</width>
+		<height>4624</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bald</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>297</ymin>
+			<xmax>3354</xmax>
+			<ymax>4155</ymax>
+		</bndbox>
+	</object>
+</annotation>
